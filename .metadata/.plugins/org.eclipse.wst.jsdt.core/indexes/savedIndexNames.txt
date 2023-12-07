@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Devdata\project_cleanup2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2332088839.index
+1884424827.index
+814731847.index
+1770017301.index
+3433035019.index
+2672536166.index
